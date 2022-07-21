@@ -48,7 +48,7 @@ Candidate vote breakdown:
   - winner: Diana DeGette
   - Winning Vote Count: 272,892
   - Winning Percentage: 73.8%
-## Election-Audit SUmmary
+## Election-Audit Summary
 The tools used, such as Python and Visual Studio code, allowed us process a large data set related to election in the most accurate way, while being efficient
 with time to proivde the anlaysis that was required for the committe. The script can be used for future elections, not only in the counties listed above, but in any 
 county across the nation, where processing and analysis of an election data is required. It gives the breakdown by count and percentage for both candidates and the 
